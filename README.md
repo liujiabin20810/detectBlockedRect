@@ -5,4 +5,4 @@
  1. OpenCV 3.3.1+ 
  2. opencv_contrib 3.3.1 (with line_descriptor)
  
- Learn more from the [Wiki](https://github.com/liujiabin20810/detectBlockedRect/wiki)
+ Learn more from the [Wiki](https://github.com/liujiabin20810/detectBlockedRect/wiki) or [CSDN](https://blog.csdn.net/liujiabin076/article/details/74917605)
