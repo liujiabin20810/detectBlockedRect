@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\ImageProcess\detect_blocked_rect\build\CMakeFiles\1137cd2f2d95401c26f076b55d72c5a8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C1F3D6D8-A5CD-3890-8208-E55B8E35792A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

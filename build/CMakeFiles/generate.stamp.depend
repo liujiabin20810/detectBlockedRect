@@ -1,0 +1,30 @@
+# CMake generation dependency list for this directory.
+E:/ImageProcess/detect_blocked_rect/src/CMakeLists.txt
+E:/ImageProcess/detect_blocked_rect/build/CMakeFiles/3.8.0-rc2/CMakeSystem.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/CMakeSystemSpecificInitialize.cmake
+E:/ImageProcess/detect_blocked_rect/build/CMakeFiles/3.8.0-rc2/CMakeCCompiler.cmake
+E:/ImageProcess/detect_blocked_rect/build/CMakeFiles/3.8.0-rc2/CMakeCXXCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/Platform/WindowsPaths.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows-MSVC.cmake
+E:/ImageProcess/detect_blocked_rect/build/CMakeFiles/3.8.0-rc2/CMakeRCCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/CMakeRCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCXXInformation.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/Compiler/MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCommonLanguageInclude.cmake
+D:/0pencv331/x86/vc12/lib/OpenCVConfig-version.cmake
+D:/0pencv331/x86/vc12/lib/OpenCVConfig.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.8/Modules/FindPackageMessage.cmake
+D:/0pencv331/x86/vc12/lib/OpenCVModules.cmake
+D:/0pencv331/x86/vc12/lib/OpenCVModules-debug.cmake
+D:/0pencv331/x86/vc12/lib/OpenCVModules-release.cmake
