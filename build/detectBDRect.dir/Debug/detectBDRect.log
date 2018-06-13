@@ -1,16 +1,39 @@
-﻿生成启动时间为 2018/6/13 1:13:15。
+﻿生成启动时间为 2018/6/14 2:55:01。
      1>项目“E:\ImageProcess\detect_blocked_rect\build\detectBDRect.vcxproj”在节点 2 上(Build 个目标)。
      1>InitializeBuildStatus:
          正在创建“detectBDRect.dir\Debug\detectBDRect.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        CustomBuild:
          所有输出均为最新。
        ClCompile:
-         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IE:\ImageProcess\detect_blocked_rect\src\detectBDRect /ID:\0pencv331\include /ID:\0pencv331\include\opencv /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"detectBDRect.dir\Debug\\" /Fd"detectBDRect.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp E:\ImageProcess\detect_blocked_rect\src\main.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IE:\ImageProcess\detect_blocked_rect\src\detectBDRect /ID:\0pencv331\include /ID:\0pencv331\include\opencv /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"detectBDRect.dir\Debug\\" /Fd"detectBDRect.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp
          detectBlockedRect.cpp
-     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(155): warning C4018: “<”: 有符号/无符号不匹配
-     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(156): warning C4018: “<”: 有符号/无符号不匹配
-         main.cpp
-         正在生成代码...
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(106): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(107): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(115): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(117): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(119): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(124): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(159): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(160): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(162): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(217): warning C4018: “<”: 有符号/无符号不匹配
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(229): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(230): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(242): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(256): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(258): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(326): warning C4018: “<”: 有符号/无符号不匹配
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(349): warning C4018: “<”: 有符号/无符号不匹配
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(361): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(362): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(374): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(388): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(390): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(658): warning C4018: “<”: 有符号/无符号不匹配
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(659): warning C4018: “<”: 有符号/无符号不匹配
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(670): warning C4018: “<”: 有符号/无符号不匹配
+     1>E:\ImageProcess\detect_blocked_rect\src\detectBlockedRect.cpp(671): warning C4018: “<”: 有符号/无符号不匹配
        Link:
          D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ImageProcess\detect_blocked_rect\build\Debug\detectBDRect.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib D:\0pencv331\x86\vc12\lib\opencv_photo331d.lib D:\0pencv331\x86\vc12\lib\opencv_stitching331d.lib D:\0pencv331\x86\vc12\lib\opencv_dpm331d.lib D:\0pencv331\x86\vc12\lib\opencv_face331d.lib D:\0pencv331\x86\vc12\lib\opencv_fuzzy331d.lib D:\0pencv331\x86\vc12\lib\opencv_line_descriptor331d.lib D:\0pencv331\x86\vc12\lib\opencv_plot331d.lib D:\0pencv331\x86\vc12\lib\opencv_xfeatures2d331d.lib D:\0pencv331\x86\vc12\lib\opencv_ximgproc331d.lib D:\0pencv331\x86\vc12\lib\opencv_xobjdetect331d.lib D:\0pencv331\x86\vc12\lib\opencv_ml331d.lib D:\0pencv331\x86\vc12\lib\opencv_calib3d331d.lib D:\0pencv331\x86\vc12\lib\opencv_features2d331d.lib D:\0pencv331\x86\vc12\lib\opencv_flann331d.lib D:\0pencv331\x86\vc12\lib\opencv_highgui331d.lib D:\0pencv331\x86\vc12\lib\opencv_imgcodecs331d.lib D:\0pencv331\x86\vc12\lib\opencv_objdetect331d.lib D:\0pencv331\x86\vc12\lib\opencv_imgproc331d.lib D:\0pencv331\x86\vc12\lib\opencv_core331d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/ImageProcess/detect_blocked_rect/build/Debug/detectBDRect.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/ImageProcess/detect_blocked_rect/build/Debug/detectBDRect.lib" /MACHINE:X86 /SAFESEH   /machine:X86 detectBDRect.dir\Debug\main.obj
          detectBDRect.dir\Debug\detectBlockedRect.obj
@@ -22,4 +45,4 @@
 
 生成成功。
 
-已用时间 00:00:06.32
+已用时间 00:00:01.25

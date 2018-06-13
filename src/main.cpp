@@ -26,11 +26,16 @@ int main(int argc, char** argv)
 	
 	BlockedRect detect_bdRect;
 	
+	if (!detect_bdRect.initParams("params.ini"))
+		return -1;
+
 	detect_bdRect.detect(img);
 	
 	Mat drawIm = img.clone();
+//	detect_bdRect.drawLines(drawIm);
 
-	detect_bdRect.drawLines(drawIm);
+	detect_bdRect.mergeLines();
+	detect_bdRect.drawMergeLines(drawIm);
 
 	namedWindow("src", 0);
 	namedWindow("draw", 0);
